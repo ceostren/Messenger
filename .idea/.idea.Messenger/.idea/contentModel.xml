@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ceost\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ceost\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Messenger.1103866453.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ceost\RiderProjects\Messenger" t="IncludeFlat">
+      <e p="Messenger" t="IncludeRecursive">
+        <e p="belial@dogtown.com.key" t="Include" />
+        <e p="bhd2469@rit.edu.key" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ceo8099@g.rit.edu.key" t="Include" />
+        <e p="dxc4643@rit.edu.key" t="Include" />
+        <e p="jrr3976@rit.edu.key" t="Include" />
+        <e p="Messenger.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Messenger.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="public.key" t="Include" />
+      </e>
+      <e p="Messenger.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
